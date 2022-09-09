@@ -4,6 +4,8 @@
  *
  *   main - Use the function puts
  *
+ *
+ *
  *   Return: Always 0 (Success)
  */
 int main(void)
