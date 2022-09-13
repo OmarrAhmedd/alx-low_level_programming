@@ -7,7 +7,7 @@
  *
  * description : lower and upper letters
  *
- * Return : ALways 0
+ * Return : ALways 0.
  */
 int main(void)
 {
