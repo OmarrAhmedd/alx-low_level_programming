@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - the driver function print _putchar followed on a new line
+ * print_alphabet - Make the alphabet
  *
- * Return: Always 0
+ * Return: void
  */
 void print_alphabet(void)
 {
@@ -14,5 +14,5 @@ void print_alphabet(void)
 		_putchar(c);
 	}
 
-_putchar('\n');
+	_putchar('\n');
 }
